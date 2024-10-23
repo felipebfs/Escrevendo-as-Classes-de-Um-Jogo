@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-Repositório criado para salvar meu projeto em conjunto com a DIO "Calculadora de Partidas Rankeadas"
+Repositório criado para salvar meu projeto em conjunto com a DIO "Escrevendo as Classes de Um Jogo"
 Desafio do curso Trilha JavaScript da DIO/GFT ministrado pelo instrutor Felipe Aguiar.
 
 ## Desenvolvimento
